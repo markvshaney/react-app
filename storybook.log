@@ -1,0 +1,21 @@
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: my-app@0.1.0
+npm error Found: react-scripts@4.0.3
+npm error node_modules/react-scripts
+npm error   react-scripts@"4.0.3" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer react-scripts@">=5.0.0" from @storybook/preset-create-react-app@8.5.7
+npm error node_modules/@storybook/preset-create-react-app
+npm error   dev @storybook/preset-create-react-app@"8.5.7" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\lbhei\AppData\Local\npm-cache\_logs\2025-02-18T21_04_44_744Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\lbhei\AppData\Local\npm-cache\_logs\2025-02-18T21_04_44_744Z-debug-0.log
